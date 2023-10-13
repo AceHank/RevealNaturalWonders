@@ -1,1 +1,6 @@
-
+{
+    "name": "Global uniques", 
+    "uniques": [
+		"Reveal up to [All] [Natural Wonder] within a [999] tile radius <upon founding a city>",
+    ]
+}
